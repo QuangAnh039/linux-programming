@@ -1,0 +1,6 @@
+Các bước triển khai
+-Tạo message queue hoặc mở một message queue có sẵn.
+-Ghi dữ liệu vào message queue.
+-Đọc dữ liệu từ message queue.
+-Đóng message queue khi không sử dụng.
+-Giải phóng message queue.
